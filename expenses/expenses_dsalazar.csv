@@ -1,0 +1,71 @@
+date,category,amount_usd,description
+2024-01-01,Clothing,52.0,buying clothes in H&M
+2024-01-15,Clothing,53.0,buying clothes in Penneys
+2024-01-16,Entertaiment,10.0,going to the cinema to watch The Avengers
+2024-01-26,Clothing,27.0,buying clothes in H&M
+2024-01-31,Clothing,39.0,buying clothes in Zara
+2024-02-03,Entertaiment,11.0,going to the cinema to watch The Lord of the Rings
+2024-02-05,Groceries,118.0,doing groceries in Dunnes
+2024-02-06,Entertaiment,8.0,going to the cinema to watch Star Wars
+2024-02-08,Clothing,58.0,buying clothes in Dunnes
+2024-02-14,Entertaiment,10.0,going to the cinema to watch The Lord of the Rings
+2024-02-16,Groceries,21.0,doing groceries in Lidl
+2024-02-18,Clothing,92.0,buying clothes in Zara
+2024-02-19,Groceries,64.0,doing groceries in Dunnes
+2024-02-23,Entertaiment,13.0,going to the cinema to watch The Lord of the Rings
+2024-02-27,Entertaiment,16.0,going to the cinema to watch Star Wars
+2024-02-29,Groceries,148.0,doing groceries in Tesco
+2024-03-08,Entertaiment,6.0,going to the cinema to watch Star Wars
+2024-03-08,Entertaiment,9.0,going to the cinema to watch The Lord of the Rings
+2024-03-20,Entertaiment,16.0,going to the cinema to watch The Avengers
+2024-03-21,Groceries,36.0,doing groceries in Aldi
+2024-03-26,Entertaiment,15.0,going to the cinema to watch Star Wars
+2024-04-15,Clothing,64.0,buying clothes in Zara
+2024-05-07,Entertaiment,12.0,going to the cinema to watch The Avengers
+2024-05-10,Groceries,82.0,doing groceries in Dunnes
+2024-05-20,Clothing,54.0,buying clothes in Dunnes
+2024-05-23,Groceries,178.0,doing groceries in Aldi
+2024-05-31,Groceries,99.0,doing groceries in Aldi
+2024-06-01,Clothing,16.0,buying clothes in Penneys
+2024-06-05,Entertaiment,12.0,going to the cinema to watch The Lord of the Rings
+2024-06-07,Groceries,95.0,doing groceries in Lidl
+2024-06-08,Groceries,129.0,doing groceries in Aldi
+2024-06-21,Entertaiment,7.0,going to the cinema to watch Star Wars
+2024-06-23,Groceries,18.0,doing groceries in Tesco
+2024-06-24,Clothing,37.0,buying clothes in Penneys
+2024-06-26,Clothing,45.0,buying clothes in H&M
+2024-06-30,Clothing,56.0,buying clothes in Zara
+2024-07-01,Entertaiment,8.0,going to the cinema to watch Star Wars
+2024-07-04,Groceries,147.0,doing groceries in Dunnes
+2024-07-05,Entertaiment,12.0,going to the cinema to watch The Lord of the Rings
+2024-07-08,Clothing,76.0,buying clothes in H&M
+2024-07-17,Clothing,80.0,buying clothes in Zara
+2024-07-26,Entertaiment,10.0,going to the cinema to watch The Lord of the Rings
+2024-07-27,Groceries,198.0,doing groceries in Aldi
+2024-07-31,Entertaiment,11.0,going to the cinema to watch Star Wars
+2024-08-03,Entertaiment,13.0,going to the cinema to watch The Lord of the Rings
+2024-08-05,Groceries,23.0,doing groceries in Aldi
+2024-08-05,Clothing,24.0,buying clothes in Penneys
+2024-08-15,Entertaiment,13.0,going to the cinema to watch Star Wars
+2024-08-15,Entertaiment,8.0,going to the cinema to watch The Avengers
+2024-08-18,Entertaiment,9.0,going to the cinema to watch The Avengers
+2024-08-19,Clothing,35.0,buying clothes in Penneys
+2024-08-21,Clothing,32.0,buying clothes in H&M
+2024-08-24,Entertaiment,15.0,going to the cinema to watch The Avengers
+2024-08-30,Entertaiment,10.0,going to the cinema to watch The Avengers
+2024-09-18,Groceries,72.0,doing groceries in Aldi
+2024-09-21,Groceries,180.0,doing groceries in Tesco
+2024-09-23,Entertaiment,20.0,going to the cinema to watch The Lord of the Rings
+2024-09-25,Groceries,136.0,doing groceries in Lidl
+2024-09-25,Clothing,61.0,buying clothes in H&M
+2024-09-29,Entertaiment,8.0,going to the cinema to watch Star Wars
+2024-10-01,Groceries,25.0,doing groceries in Dunnes
+2024-10-20,Clothing,93.0,buying clothes in Penneys
+2024-10-24,Groceries,99.0,doing groceries in Lidl
+2024-10-24,Groceries,126.0,doing groceries in Dunnes
+2024-10-26,Clothing,63.0,buying clothes in Zara
+2024-10-26,Entertaiment,5.0,going to the cinema to watch Star Wars
+2024-11-08,Entertaiment,14.0,going to the cinema to watch The Avengers
+2024-11-08,Groceries,198.0,doing groceries in Dunnes
+2024-12-09,Clothing,66.0,buying clothes in Dunnes
+2024-12-26,Entertaiment,19.0,going to the cinema to watch The Lord of the Rings

@@ -1,102 +1,102 @@
 date,category,amount_usd,description
-2020-01-04,Clothing,73.0,Buying clothes in H&M
-2020-02-26,Clothing,61.0,Buying clothes in H&M
-2020-03-02,Entertaiment,8.0,Going to the cinema to watch The Lord of the Rings
-2020-05-02,Entertaiment,17.0,Going to the cinema to watch Star Wars
-2020-05-05,Clothing,43.0,Buying clothes in Zara
-2020-05-12,Groceries,134.0,Doing groceries in Tesco
-2020-06-02,Groceries,93.0,Doing groceries in Aldi
-2020-06-25,Entertaiment,15.0,Going to the cinema to watch Star Wars
-2020-07-03,Entertaiment,15.0,Going to the cinema to watch The Lord of the Rings
-2020-07-12,Entertaiment,13.0,Going to the cinema to watch The Lord of the Rings
-2020-07-16,Groceries,132.0,Doing groceries in Tesco
-2020-08-17,Groceries,140.0,Doing groceries in Tesco
-2020-08-27,Entertaiment,17.0,Going to the cinema to watch Star Wars
-2020-09-25,Entertaiment,19.0,Going to the cinema to watch The Avengers
-2020-09-25,Groceries,121.0,Doing groceries in Dunnes
-2020-10-14,Clothing,96.0,Buying clothes in H&M
-2020-11-13,Clothing,50.0,Buying clothes in Zara
-2020-11-13,Clothing,67.0,Buying clothes in H&M
-2020-11-17,Clothing,100.0,Buying clothes in Penneys
-2020-12-07,Entertaiment,5.0,Going to the cinema to watch The Avengers
-2020-12-23,Entertaiment,12.0,Going to the cinema to watch The Avengers
-2021-01-02,Groceries,14.0,Doing groceries in Lidl
-2021-02-09,Entertaiment,11.0,Going to the cinema to watch The Avengers
-2021-02-25,Entertaiment,13.0,Going to the cinema to watch Star Wars
-2021-03-11,Groceries,150.0,Doing groceries in Tesco
-2021-04-14,Groceries,197.0,Doing groceries in Aldi
-2021-04-23,Groceries,134.0,Doing groceries in Aldi
-2021-04-28,Clothing,100.0,Buying clothes in Zara
-2021-05-23,Entertaiment,10.0,Going to the cinema to watch Star Wars
-2021-06-06,Clothing,92.0,Buying clothes in Dunnes
-2021-07-15,Groceries,142.0,Doing groceries in Lidl
-2021-07-17,Clothing,80.0,Buying clothes in Zara
-2021-07-29,Entertaiment,8.0,Going to the cinema to watch Star Wars
-2021-08-02,Entertaiment,12.0,Going to the cinema to watch Star Wars
-2021-08-20,Groceries,159.0,Doing groceries in Aldi
-2021-09-19,Clothing,44.0,Buying clothes in Dunnes
-2021-09-26,Clothing,78.0,Buying clothes in Zara
-2021-10-04,Clothing,17.0,Buying clothes in Penneys
-2021-11-29,Entertaiment,8.0,Going to the cinema to watch The Avengers
-2021-12-01,Clothing,38.0,Buying clothes in Penneys
-2021-12-11,Entertaiment,14.0,Going to the cinema to watch The Avengers
-2022-01-01,Clothing,94.0,Buying clothes in Zara
-2022-01-12,Clothing,79.0,Buying clothes in Penneys
-2022-01-16,Clothing,97.0,Buying clothes in Zara
-2022-01-26,Clothing,50.0,Buying clothes in Dunnes
-2022-02-20,Entertaiment,17.0,Going to the cinema to watch The Avengers
-2022-03-03,Clothing,9.0,Buying clothes in Penneys
-2022-03-07,Clothing,24.0,Buying clothes in H&M
-2022-03-13,Clothing,86.0,Buying clothes in H&M
-2022-04-10,Clothing,11.0,Buying clothes in Zara
-2022-04-29,Clothing,63.0,Buying clothes in H&M
-2022-05-10,Clothing,26.0,Buying clothes in Dunnes
-2022-05-18,Entertaiment,14.0,Going to the cinema to watch Star Wars
-2022-05-18,Clothing,86.0,Buying clothes in Dunnes
-2022-06-28,Entertaiment,13.0,Going to the cinema to watch The Lord of the Rings
-2022-06-29,Clothing,45.0,Buying clothes in Penneys
-2022-07-12,Entertaiment,16.0,Going to the cinema to watch The Avengers
-2022-07-16,Entertaiment,18.0,Going to the cinema to watch Star Wars
-2022-08-03,Entertaiment,14.0,Going to the cinema to watch The Avengers
-2022-08-29,Groceries,117.0,Doing groceries in Dunnes
-2022-11-13,Entertaiment,8.0,Going to the cinema to watch The Lord of the Rings
-2022-12-01,Clothing,70.0,Buying clothes in Penneys
-2022-12-08,Groceries,92.0,Doing groceries in Tesco
-2022-12-19,Clothing,79.0,Buying clothes in Zara
-2023-01-01,Clothing,82.0,Buying clothes in Penneys
-2023-01-18,Groceries,123.0,Doing groceries in Lidl
-2023-02-04,Clothing,46.0,Buying clothes in Zara
-2023-03-19,Entertaiment,17.0,Going to the cinema to watch The Avengers
-2023-04-04,Clothing,91.0,Buying clothes in Penneys
-2023-04-05,Entertaiment,10.0,Going to the cinema to watch The Lord of the Rings
-2023-04-11,Clothing,5.0,Buying clothes in H&M
-2023-04-14,Groceries,84.0,Doing groceries in Dunnes
-2023-04-20,Entertaiment,7.0,Going to the cinema to watch The Lord of the Rings
-2023-05-28,Clothing,26.0,Buying clothes in Dunnes
-2023-06-04,Groceries,67.0,Doing groceries in Dunnes
-2023-07-27,Groceries,30.0,Doing groceries in Tesco
-2023-10-06,Clothing,93.0,Buying clothes in Dunnes
-2023-11-01,Clothing,10.0,Buying clothes in Zara
-2023-12-14,Groceries,83.0,Doing groceries in Aldi
-2024-01-01,groceries,100.0,aldi
-2024-01-11,Groceries,29.0,Doing groceries in Lidl
-2024-02-24,Entertaiment,6.0,Going to the cinema to watch The Lord of the Rings
-2024-02-26,Groceries,83.0,Doing groceries in Aldi
-2024-03-13,Entertaiment,18.0,Going to the cinema to watch Star Wars
-2024-03-21,Groceries,32.0,Doing groceries in Lidl
-2024-05-09,Clothing,8.0,Buying clothes in Dunnes
-2024-05-09,Clothing,71.0,Buying clothes in Zara
-2024-05-18,Groceries,180.0,Doing groceries in Tesco
-2024-06-09,Entertaiment,7.0,Going to the cinema to watch The Lord of the Rings
-2024-06-27,Entertaiment,19.0,Going to the cinema to watch The Avengers
-2024-06-28,Clothing,89.0,Buying clothes in Penneys
-2024-07-20,Groceries,60.0,Doing groceries in Aldi
-2024-07-27,Groceries,66.0,Doing groceries in Lidl
-2024-08-11,Entertaiment,19.0,Going to the cinema to watch Star Wars
-2024-08-22,Groceries,99.0,Doing groceries in Dunnes
-2024-09-13,Entertaiment,10.0,Going to the cinema to watch The Avengers
-2024-09-23,Entertaiment,13.0,Going to the cinema to watch The Avengers
-2024-11-07,Clothing,34.0,Buying clothes in H&M
-2024-11-07,Clothing,76.0,Buying clothes in Penneys
-2024-11-24,Groceries,193.0,Doing groceries in Aldi
-2024-12-11,Entertaiment,12.0,Going to the cinema to watch The Avengers
+2020-01-04,Clothing,73,Buying clothes in H&M
+2020-01-04,Clothing,73,Buying clothes in H&M
+2020-02-26,Clothing,61,Buying clothes in H&M
+2020-02-26,Clothing,61,Buying clothes in H&M
+2020-03-02,Entertaiment,8,Going to the cinema to watch The Lord of the Rings
+2020-03-02,Entertaiment,8,Going to the cinema to watch The Lord of the Rings
+2020-05-02,Entertaiment,17,Going to the cinema to watch Star Wars
+2020-05-02,Entertaiment,17,Going to the cinema to watch Star Wars
+2020-05-05,Clothing,43,Buying clothes in Zara
+2020-05-05,Clothing,43,Buying clothes in Zara
+2020-05-12,Groceries,134,Doing groceries in Tesco
+2020-05-12,Groceries,134,Doing groceries in Tesco
+2020-06-02,Groceries,93,Doing groceries in Aldi
+2020-06-02,Groceries,93,Doing groceries in Aldi
+2020-06-25,Entertaiment,15,Going to the cinema to watch Star Wars
+2020-06-25,Entertaiment,15,Going to the cinema to watch Star Wars
+2020-07-03,Entertaiment,15,Going to the cinema to watch The Lord of the Rings
+2020-07-03,Entertaiment,15,Going to the cinema to watch The Lord of the Rings
+2020-07-12,Entertaiment,13,Going to the cinema to watch The Lord of the Rings
+2020-07-12,Entertaiment,13,Going to the cinema to watch The Lord of the Rings
+2020-07-16,Groceries,132,Doing groceries in Tesco
+2020-07-16,Groceries,132,Doing groceries in Tesco
+2020-08-17,Groceries,140,Doing groceries in Tesco
+2020-08-17,Groceries,140,Doing groceries in Tesco
+2020-08-27,Entertaiment,17,Going to the cinema to watch Star Wars
+2020-08-27,Entertaiment,17,Going to the cinema to watch Star Wars
+2020-09-25,Groceries,121,Doing groceries in Dunnes
+2020-09-25,Groceries,121,Doing groceries in Dunnes
+2020-09-25,Entertaiment,19,Going to the cinema to watch The Avengers
+2020-09-25,Entertaiment,19,Going to the cinema to watch The Avengers
+2020-10-14,Clothing,96,Buying clothes in H&M
+2020-10-14,Clothing,96,Buying clothes in H&M
+2020-11-13,Clothing,50,Buying clothes in Zara
+2020-11-13,Clothing,50,Buying clothes in Zara
+2020-11-13,Clothing,67,Buying clothes in H&M
+2020-11-13,Clothing,67,Buying clothes in H&M
+2020-11-17,Clothing,100,Buying clothes in Penneys
+2020-11-17,Clothing,100,Buying clothes in Penneys
+2020-12-07,Entertaiment,5,Going to the cinema to watch The Avengers
+2020-12-07,Entertaiment,5,Going to the cinema to watch The Avengers
+2020-12-23,Entertaiment,12,Going to the cinema to watch The Avengers
+2020-12-23,Entertaiment,12,Going to the cinema to watch The Avengers
+2021-01-02,Groceries,14,Doing groceries in Lidl
+2021-01-02,Groceries,14,Doing groceries in Lidl
+2021-02-09,Entertaiment,11,Going to the cinema to watch The Avengers
+2021-02-09,Entertaiment,11,Going to the cinema to watch The Avengers
+2021-02-25,Entertaiment,13,Going to the cinema to watch Star Wars
+2021-02-25,Entertaiment,13,Going to the cinema to watch Star Wars
+2021-03-11,Groceries,150,Doing groceries in Tesco
+2021-03-11,Groceries,150,Doing groceries in Tesco
+2021-04-14,Groceries,197,Doing groceries in Aldi
+2021-04-14,Groceries,197,Doing groceries in Aldi
+2021-04-23,Groceries,134,Doing groceries in Aldi
+2021-04-23,Groceries,134,Doing groceries in Aldi
+2021-04-28,Clothing,100,Buying clothes in Zara
+2021-04-28,Clothing,100,Buying clothes in Zara
+2021-05-23,Entertaiment,10,Going to the cinema to watch Star Wars
+2021-05-23,Entertaiment,10,Going to the cinema to watch Star Wars
+2021-06-06,Clothing,92,Buying clothes in Dunnes
+2021-06-06,Clothing,92,Buying clothes in Dunnes
+2021-07-15,Groceries,142,Doing groceries in Lidl
+2021-07-15,Groceries,142,Doing groceries in Lidl
+2021-07-17,Clothing,80,Buying clothes in Zara
+2021-07-17,Clothing,80,Buying clothes in Zara
+2021-07-29,Entertaiment,8,Going to the cinema to watch Star Wars
+2021-07-29,Entertaiment,8,Going to the cinema to watch Star Wars
+2021-08-02,Entertaiment,12,Going to the cinema to watch Star Wars
+2021-08-02,Entertaiment,12,Going to the cinema to watch Star Wars
+2021-08-20,Groceries,159,Doing groceries in Aldi
+2021-08-20,Groceries,159,Doing groceries in Aldi
+2021-09-19,Clothing,44,Buying clothes in Dunnes
+2021-09-19,Clothing,44,Buying clothes in Dunnes
+2021-09-26,Clothing,78,Buying clothes in Zara
+2021-09-26,Clothing,78,Buying clothes in Zara
+2021-10-04,Clothing,17,Buying clothes in Penneys
+2021-10-04,Clothing,17,Buying clothes in Penneys
+2021-11-29,Entertaiment,8,Going to the cinema to watch The Avengers
+2021-11-29,Entertaiment,8,Going to the cinema to watch The Avengers
+2021-12-01,Clothing,38,Buying clothes in Penneys
+2021-12-01,Clothing,38,Buying clothes in Penneys
+2021-12-11,Entertaiment,14,Going to the cinema to watch The Avengers
+2021-12-11,Entertaiment,14,Going to the cinema to watch The Avengers
+2022-01-01,Clothing,94,Buying clothes in Zara
+2022-01-01,Clothing,94,Buying clothes in Zara
+2022-01-12,Clothing,79,Buying clothes in Penneys
+2022-01-12,Clothing,79,Buying clothes in Penneys
+2022-01-16,Clothing,97,Buying clothes in Zara
+2022-01-16,Clothing,97,Buying clothes in Zara
+2022-01-26,Clothing,50,Buying clothes in Dunnes
+2022-01-26,Clothing,50,Buying clothes in Dunnes
+2022-02-20,Entertaiment,17,Going to the cinema to watch The Avengers
+2022-02-20,Entertaiment,17,Going to the cinema to watch The Avengers
+2022-03-03,Clothing,9,Buying clothes in Penneys
+2022-03-03,Clothing,9,Buying clothes in Penneys
+2022-03-07,Clothing,24,Buying clothes in H&M
+2022-03-07,Clothing,24,Buying clothes in H&M
+2022-03-13,Clothing,86,Buying clothes in H&M
+2022-03-13,Clothing,86,Buying clothes in H&M
+2022-04-10,Clothing,11,Buying clothes in Zara
+2022-04-10,Clothing,11,Buying clothes in Zara
+2022-04-29,Clothing,63,Buying clothes in H&M

@@ -180,12 +180,12 @@ def save_expenses(pd_expenses, user_name):
     '''
 
     #create a folder to save the results
-    os.makedirs("../expenses/", exist_ok=True)
+    os.makedirs("./expenses/", exist_ok=True)
         #not raise error if the folder exists
 
     #save the expenses as a CSV file
     pd_expenses.to_csv(\
-        "../expenses/expenses_" + user_name + ".csv", \
+        "./expenses/expenses_" + user_name + ".csv", \
         sep=",", \
         index=False \
     )
@@ -199,7 +199,7 @@ def load_expenses(user_name):
     '''
 
     #add the file path
-    file_path = "../expenses/expenses_" + user_name + ".csv"
+    file_path = "./expenses/expenses_" + user_name + ".csv"
 
     #if the file exists
     if(os.path.exists(file_path)):
